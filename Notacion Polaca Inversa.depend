@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1449166252 source:c:\users\arturo\documents\codeblocks\notacion polaca inversa\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+
+1449151334 source:c:\users\arturo\documents\codeblocks\notacion polaca inversa\src\nod.cpp
+	"Nod.h"
+
+1449151322 c:\users\arturo\documents\codeblocks\notacion polaca inversa\include\nod.h
+
